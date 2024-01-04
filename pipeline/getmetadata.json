@@ -20,7 +20,7 @@
 						"type": "DatasetReference"
 					},
 					"fieldList": [
-						"childItems"
+						"columnCount"
 					],
 					"storeSettings": {
 						"type": "AzureBlobFSReadSettings",
